@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sargalias/javascript30/issues"
   },
-  "homepage": "https://github.com/sargalias/javascript30#readme"
+  "homepage": "https://github.com/sargalias/javascript30#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  }
 }
